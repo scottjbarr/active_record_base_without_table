@@ -1,8 +1,10 @@
 = ActiveRecordBaseWithoutTable
 
-This is a version of the ActiveRecordBaseWithoutTable plugin (original 
-version by jonathan.viney@gmail.com) that works with Rails 2.x
-  
+This is a version of the ActiveRecordBaseWithoutTable plugin (original version
+by jonathan.viney@gmail.com) that works with Rails 2.x
+
+Also see http://github.com/jonleighton/inactive_record/tree/master as an alternative.
+ 
 == Instructions
 
 Get the power of ActiveRecord models, including validation, without having a table in the database.
@@ -21,4 +23,4 @@ There is a good blog post available on the plugin:
 
   http://www.kangarooit.com/developer_blog/2007/02/email-form-validation-in-ruby-on-rails.php
 
-Any bugs, questions, comments please feel free to email me: jonathan.viney@gmail.com
+Any bugs, questions, comments please feel free to email me: scottjbarr [ at ] NOSPAMMERSgmail dot com
